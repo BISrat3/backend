@@ -3,11 +3,12 @@
       "name": "Simon Game",
       "live": "https://app.herokuapp.com/whatever",
       "git": "https://bisrat3.github.io/Project1_Simon/",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "./Simon_Wire_Frame.png"
     },
     {
       "name": "Movie-app",
       "live": "https://movie-app-1305.herokuapp.com/movies",
-      "git": "https://github.com/BISrat3/Movie_Project2"
+      "git": "https://github.com/BISrat3/Movie_Project2",
+      "image":"https://user-images.githubusercontent.com/99110345/166318309-50468d33-474a-4899-b339-33af6bb6a450.png"
     }
   ]
