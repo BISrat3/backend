@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Simon Game",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "https://bisrat3.github.io/Project1_Simon/",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Movie-app",
+      "live": "https://movie-app-1305.herokuapp.com/movies",
+      "git": "https://github.com/BISrat3/Movie_Project2"
+    }
+  ]
